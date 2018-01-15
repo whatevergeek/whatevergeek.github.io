@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>whatevergeek</title>
- <link href="http://whatevergeek.com/atom.xml" rel="self"/>
- <link href="http://whatevergeek.com/"/>
- <updated>2018-01-14T13:43:52+00:00</updated>
- <id>http://whatevergeek.com</id>
+ <link href="https://whatevergeek.com/atom.xml" rel="self"/>
+ <link href="https://whatevergeek.com/"/>
+ <updated>2018-01-15T18:13:38+00:00</updated>
+ <id>https://whatevergeek.com</id>
  <author>
    <name>Paul Amazona</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>New Year</title>
-   <link href="http://whatevergeek.com/2018/01/01/new-year/"/>
+   <link href="https://whatevergeek.com/2018/01/01/new-year/"/>
    <updated>2018-01-01T00:00:00+00:00</updated>
-   <id>http://whatevergeek.com/2018/01/01/new-year</id>
+   <id>https://whatevergeek.com/2018/01/01/new-year</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;br&gt;
 This is a placeholder site for whatevergeek.com&lt;br&gt;
 Actual site is still under construction.&lt;/p&gt;
